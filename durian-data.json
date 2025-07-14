@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Parkway Durian",
+    "address": "123 Orchard Road, Singapore",
+    "phone": "+65 9123 4567",
+    "lat": 1.3048,
+    "lon": 103.8318,
+    "variants": ["MSW", "Kim Hong"],
+    "priceRange": "S$16 - S$22",
+    "lowPrice": 16,
+    "openingHours": "10am - 10pm",
+    "promotions": "10% off on weekends",
+    "about": "Famous for premium Mao Shan Wang.",
+    "rating": 4.7
+  },
+  {
+    "id": "2",
+    "name": "Lele Durian",
+    "address": "45 Geylang, Singapore",
+    "phone": "+65 9234 5678",
+    "lat": 1.3123,
+    "lon": 103.8867,
+    "variants": ["MSW", "Golden Phoenix"],
+    "priceRange": "S$18 - S$24",
+    "lowPrice": 18,
+    "openingHours": "11am - 11pm",
+    "promotions": null,
+    "about": "Fresh durians daily from Malaysia.",
+    "rating": 4.5
+  }
+]
